@@ -1,0 +1,108 @@
+#change_wrap_div{ background-repeat: repeat-y} body{ background-color: #FFFFFF} body{ background-repeat: repeat-y} #footer{ background-repeat: repeat-y} .crum_news_cat .title { background:url(../images/uploads/nfc.png) 0 0 no-repeat;
+}
+.crum_testimonial_widget .title { background:url(..images/uploads/test1.png) 0 0 no-repeat;
+}
+.list_widget .title { background:url(..images/uploads/rtb.png) 0 0 no-repeat;
+}
+.crum_partners_widget .title { background:url(..images/uploads/part1.png) 0 0 no-repeat;
+}
+.instagram-widget .title { background:url(../images/uploads/flickr.png) 0 0 no-repeat;
+}
+.widget_crum-text-widget .title { background:url(../images/uploads/tb.png) 0 0 no-repeat;
+}
+.contacts-widget .title { background:url(../images/uploads/cont2.png) 0 0 no-repeat;
+}
+.tags-widget .title { background:url(../images/uploads/tags1.png) 0 0 no-repeat;
+}
+.tabs-widget .title, .aq_tabs .title { background:url(../images/uploads/tabs.png) 0 0 no-repeat;
+}
+.widget_gallery_widget .title { background:url(../images/uploads/rand.png) 0 0 no-repeat;
+}
+.widget_twitter-widget .title, .twitter-widget .title { background:url(../images/uploads/twit.png) 0 0 no-repeat;
+}
+.category-widget .title { background:url(../images/uploads/cats.png) 0 0 no-repeat;
+}
+.widget_facebook_widget .title { background:url(../images/uploads/face.png) 0 0 no-repeat;
+}
+.widget_crum_widgets_video .title { background:url(../images/uploads/vid.png) 0 0 no-repeat;
+}
+.crum_widget_v_accordion .title { background:url(../images/uploads/vt2.png) 0 0 no-repeat;
+}
+.crum_galleries_widget .title { background:url(../images/uploads/gal.png) 0 0 no-repeat;
+}
+.crum_news_row .title { background:url(../images/uploads/news.png) 0 0 no-repeat;
+}
+.about_author_widget .title { background:url(../images/uploads/abau.png) 0 0 no-repeat;
+}
+.skills_widget .title { background:url(../images/uploads/skills.png) 0 0 no-repeat;
+}
+.crum_widget_features .title { background:url(../images/uploads/why.png) 0 0 no-repeat;
+}
+.widget_wp_sidebarlogin .title { background:url(../images/uploads/log.png) 0 0 no-repeat;
+}
+.widget_shopping_cart .title { background:url(../images/uploads/cart1.png) 0 0 no-repeat;
+}
+.crum_shortcode_widget>.title { background:url(../images/uploads/tabl.png) 0 0 no-repeat;
+}
+.cont-map .page-block-title { background:url(../images/uploads/map1.png) 0 4px no-repeat;
+}
+@media all and (-webkit-min-device-pixel-ratio: 1.5) {
+.crum_shortcode_widget>.title{ background:url('../images/uploads/tabl@2x.png') 0 0 no-repeat;} 
+.crum_widget_v_accordion .title{ background:url('../images/uploads/vt2@2x.png') 0 0 no-repeat;}
+.crum_news_cat .title{ background:url('../images/uploads/nfc@2x.png') 0 0 no-repeat;}
+.crum_testimonial_widget .title{ background:url('../images/uploads/test1@2x.png') 0 0 no-repeat;}
+.list_widget .title{ background:url('../images/uploads/rtb@2x.png') 0 0 no-repeat;}
+.crum_partners_widget .title{ background:url('../images/uploads/part1@2x.png') 0 0 no-repeat;}
+.instagram-widget .title{ background:url('../images/uploads/flickr@2x.png') 0 0 no-repeat;}
+.widget_crum-text-widget .title{ background:url('../images/uploads/tb@2x.png') 0 0 no-repeat;}
+.contacts-widget .title{ background:url('../images/uploads/cont2@2x.png') 0 0 no-repeat;}
+.tags-widget .title{ background:url('../images/uploads/tags1@2x.png') 0 0 no-repeat;}
+.tabs-widget .title{ background:url('../images/uploads/tabs@2x.png') 0 0 no-repeat;}
+.widget_gallery_widget .title{ background:url('../images/uploads/rand@2x.png') 0 0 no-repeat;}
+.widget_twitter-widget .title, .twitter-widget .title{ background:url('../images/uploads/twit@2x.png') 0 0 no-repeat;}
+.category-widget .title{ background:url('../images/uploads/cats@2x.png') 0 0 no-repeat;}
+.widget_facebook_widget .title{ background:url('../images/uploads/face@2x.png') 0 0 no-repeat;}
+.widget_crum_widgets_video .title{ background:url('../images/uploads/vid@2x.png') 0 0 no-repeat;}
+.crum_news_row .title{ background:url('../images/uploads/news@2x.png') 0 0 no-repeat;}
+.crum_galleries_widget .title{ background:url('../images/uploads/gal@2x.png') 0 0 no-repeat;}
+.about_author_widget .title{ background:url('../images/uploads/abau@2x.png') 0 0 no-repeat;}
+.skills_widget .title{ background:url('../images/uploads/skills@2x.png') 0 0 no-repeat;}
+.crum_widget_features .title{ background:url('../images/uploads/why@2x.png') 0 0 no-repeat;}
+.widget_wp_sidebarlogin .title{ background:url('../images/uploads/log@2x.png') 0 0 no-repeat;}
+.widget_shopping_cart .title{ background:url('../images/uploads/cart1@2x.png') 0 0 no-repeat;}
+.cont-map .page-block-title{ background:url('../images/uploads/map1@2x.png') 0 4px no-repeat;}
+
+}
+
+h1 {
+}
+
+h2 {
+}
+
+h3 {
+}
+
+h4 {
+}
+
+h5 {
+}
+
+h6 {
+}
+
+#layout .ls-shadow {display:none !important; height:0 !important; overflow:hidden}
+.page-id-523 #pg-4, body.home #pg-2 {margin-bottom:0;}
+@media(max-width:600px){.ovh {
+overflow: hidden;
+clear: both;
+}}
+
+
+
+
+
+
+
+
